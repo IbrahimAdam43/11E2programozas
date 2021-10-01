@@ -11,6 +11,7 @@ namespace _2021._10._01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.ReadLina();
         }
     }
 }
