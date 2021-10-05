@@ -1,0 +1,7 @@
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.exe.config
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.exe
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\bin\Debug\20211005_2.pdb
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.csprojAssemblyReference.cache
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.exe
+C:\Users\ibrahim.adam\source\repos\20211005_2\20211005_2\obj\Debug\20211005_2.pdb
